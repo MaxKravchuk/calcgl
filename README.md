@@ -1,2 +1,2 @@
-# calcgl
-test work for gl
+# Calculator
+This is simple console calculator.
