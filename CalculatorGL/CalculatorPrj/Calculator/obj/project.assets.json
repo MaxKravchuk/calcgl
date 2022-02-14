@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Звіти 3 курс\\1 сем\\ООП\\CalculatorGL\\CalculatorPrj\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "D:\\OOPGIT\\calcgl\\CalculatorGL\\CalculatorPrj\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "D:\\Звіти 3 курс\\1 сем\\ООП\\CalculatorGL\\CalculatorPrj\\Calculator\\Calculator.csproj",
+      "projectPath": "D:\\OOPGIT\\calcgl\\CalculatorGL\\CalculatorPrj\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Flink\\.nuget\\packages\\",
-      "outputPath": "D:\\Звіти 3 курс\\1 сем\\ООП\\CalculatorGL\\CalculatorPrj\\Calculator\\obj\\",
+      "outputPath": "D:\\OOPGIT\\calcgl\\CalculatorGL\\CalculatorPrj\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

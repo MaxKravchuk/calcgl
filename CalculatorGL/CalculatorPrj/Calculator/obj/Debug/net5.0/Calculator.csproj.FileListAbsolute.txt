@@ -9,3 +9,15 @@ D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\Calculator\o
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.dll
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\ref\Calculator.dll
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\Calculator\obj\Debug\net5.0\Calculator.pdb

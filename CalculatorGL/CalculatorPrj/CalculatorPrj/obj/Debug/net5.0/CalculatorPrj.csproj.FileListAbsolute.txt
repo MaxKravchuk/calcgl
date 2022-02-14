@@ -17,3 +17,22 @@ D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\CalculatorPr
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\Calculator.dll
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\Calculator.pdb
 D:\Звіти 3 курс\1 сем\ООП\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.csproj.CopyComplete
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.exe
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.deps.json
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.runtimeconfig.json
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.runtimeconfig.dev.json
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\ref\CalculatorPrj.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\CalculatorPrj.pdb
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\Calculator.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\bin\Debug\net5.0\Calculator.pdb
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.csproj.AssemblyReference.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.AssemblyInfoInputs.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.AssemblyInfo.cs
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.csproj.CoreCompileInputs.cache
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.csproj.CopyComplete
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\ref\CalculatorPrj.dll
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.pdb
+D:\OOPGIT\calcgl\CalculatorGL\CalculatorPrj\CalculatorPrj\obj\Debug\net5.0\CalculatorPrj.genruntimeconfig.cache
